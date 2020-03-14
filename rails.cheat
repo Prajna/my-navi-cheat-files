@@ -1,0 +1,4 @@
+% rails
+
+# rails new
+rails new <name> --database=postgresql --skip-action-cable --skip-sprockets --skip-turbolinks --skip-javascript --skip-webpack-install -B
